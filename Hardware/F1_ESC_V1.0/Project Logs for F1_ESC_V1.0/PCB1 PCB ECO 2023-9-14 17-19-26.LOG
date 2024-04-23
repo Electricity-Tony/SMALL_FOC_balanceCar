@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=M1_V Pin=XS1-2
+Removed Pin From Net: NetName=M1_W Pin=XS1-3
+Added Pin To Net: NetName=M1_W Pin=XS1-2
+Added Pin To Net: NetName=M1_V Pin=XS1-3
+Added Member To Class: ClassName=Sheet1 Member=Component C12 0603-104
+Added Member To Class: ClassName=Sheet1 Member=Component C13 0603-104
+Added Member To Class: ClassName=Sheet1 Member=Component C14 104
+Added Member To Class: ClassName=Sheet1 Member=Component C21 0603-106
+Added Member To Class: ClassName=Sheet1 Member=Component C23 0603-104
+Added Member To Class: ClassName=Sheet1 Member=Component C24 105
+Added Member To Class: ClassName=Sheet1 Member=Component C25 104
+Added Member To Class: ClassName=Sheet1 Member=Component C26 104
+Added Member To Class: ClassName=Sheet1 Member=Component C27 104
+Added Room: Name=Sheet1

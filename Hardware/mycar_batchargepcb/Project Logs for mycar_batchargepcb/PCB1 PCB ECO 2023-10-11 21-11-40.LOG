@@ -1,0 +1,4 @@
+Added Component: Designator=A1(ANT-Rainsun-AN5120)
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Member To Class: ClassName=Sheet1 Member=Component A1 RAINSUN
+Added Member To Class: ClassName=Sheet1 Member=Component D6 ss14

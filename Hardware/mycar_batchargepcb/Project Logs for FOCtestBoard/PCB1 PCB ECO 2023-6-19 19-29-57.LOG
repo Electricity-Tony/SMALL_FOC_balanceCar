@@ -1,0 +1,5 @@
+Change Component Description : Designator=IC2 Old Description=三通道板桥驱动芯片 New Description= 三通道板桥驱动芯片
+Added Pin To Net: NetName=USB_5V Pin=C37-2
+Added Pin To Net: NetName=USB_5V Pin=C38-2
+Added Pin To Net: NetName=USB_5V Pin=U6-7
+Added Room: Name=Sheet1

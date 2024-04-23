@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\BaiduSyncdisk\Synchronization\Tony diy\FOC_balenceCar\F1_ESC_V1.0\PCB1.PcbDoc
+Date         : 2023/9/15
+Time         : 11:39:39
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 174
+    Connections routed, 174
+    Connections remaining, 0
+count : 4

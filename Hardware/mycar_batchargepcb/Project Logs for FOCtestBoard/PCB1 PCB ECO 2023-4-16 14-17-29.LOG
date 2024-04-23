@@ -1,0 +1,10 @@
+Added Component: Designator=BAT?(BAT5#x2 µç³Ø×ù)
+Added Component: Designator=XS?(STM32F103C8T6 V2_1×ù×Ó)
+Added Pin To Net: NetName=NetBAT?_2 Pin=BAT?-2
+Added Pin To Net: NetName=NetBAT?_2 Pin=XS?-6
+Added Net: Name=NetBAT?_2
+Added Pin To Net: NetName=NetBAT?_3 Pin=BAT?-3
+Added Pin To Net: NetName=NetBAT?_3 Pin=XS?-1
+Added Net: Name=NetBAT?_3
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

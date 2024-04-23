@@ -1,0 +1,198 @@
+Added Component: Designator=C1(CAP_0603)
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C3(CAP_0603)
+Added Component: Designator=C4(CAP_0603)
+Added Component: Designator=C5(CAP_0603)
+Added Component: Designator=C6(CAP_0603)
+Added Component: Designator=C7(CAP_0603)
+Added Component: Designator=C8(CAP_0603)
+Added Component: Designator=C9(CAP_0603)
+Added Component: Designator=C10(CAP_0603)
+Added Component: Designator=C11(CAP_0603)
+Added Component: Designator=D1(SOD-323)
+Added Component: Designator=D2(led0603)
+Added Component: Designator=D3(led0603)
+Added Component: Designator=K1(3-6微动开关)
+Added Component: Designator=K2(Switch 1-2 0603)
+Added Component: Designator=R1(RES_0603)
+Added Component: Designator=R2(RES_0603)
+Added Component: Designator=R3(RES_0603)
+Added Component: Designator=R4(RES_0603)
+Added Component: Designator=U1(SOT23-5)
+Added Component: Designator=U2(LQFP48)
+Added Component: Designator=X1(STM32F103C8T6引脚针-防呆-模块端)
+Added Component: Designator=XS1(TypeC-304-16BCP)
+Added Component: Designator=XT1(SMD3225_4p)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3v3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3v3 Pin=C3-2
+Added Pin To Net: NetName=3v3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=3v3 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3v3 Pin=C6-2
+Added Pin To Net: NetName=NRST Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3v3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3v3 Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VDD_5V Pin=D1-2
+Added Pin To Net: NetName=3v3 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=3v3 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=NRST Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=3v3 Pin=K2-3
+Added Pin To Net: NetName=3v3 Pin=R1-1
+Added Pin To Net: NetName=NRST Pin=R1-2
+Added Pin To Net: NetName=NetK2_2 Pin=R2-1
+Added Pin To Net: NetName=BOOT0 Pin=R2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R4-1
+Added Pin To Net: NetName=PA6 Pin=R4-2
+Added Pin To Net: NetName=VDD_5V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=VDD_5V Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Pin To Net: NetName=3v3 Pin=U1-5
+Added Pin To Net: NetName=3v3 Pin=U2-1
+Added Pin To Net: NetName=PC13 Pin=U2-2
+Added Pin To Net: NetName=PC14 Pin=U2-3
+Added Pin To Net: NetName=PC15 Pin=U2-4
+Added Pin To Net: NetName=NetC11_1 Pin=U2-5
+Added Pin To Net: NetName=NetC10_1 Pin=U2-6
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=3v3 Pin=U2-9
+Added Pin To Net: NetName=PA0 Pin=U2-10
+Added Pin To Net: NetName=PA1 Pin=U2-11
+Added Pin To Net: NetName=PA2 Pin=U2-12
+Added Pin To Net: NetName=PA3 Pin=U2-13
+Added Pin To Net: NetName=PA4 Pin=U2-14
+Added Pin To Net: NetName=PA5 Pin=U2-15
+Added Pin To Net: NetName=PA6 Pin=U2-16
+Added Pin To Net: NetName=PA7 Pin=U2-17
+Added Pin To Net: NetName=PB0 Pin=U2-18
+Added Pin To Net: NetName=PB1 Pin=U2-19
+Added Pin To Net: NetName=PB2 Pin=U2-20
+Added Pin To Net: NetName=PB10 Pin=U2-21
+Added Pin To Net: NetName=PB11 Pin=U2-22
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=3v3 Pin=U2-24
+Added Pin To Net: NetName=PB12 Pin=U2-25
+Added Pin To Net: NetName=PB13 Pin=U2-26
+Added Pin To Net: NetName=PB14 Pin=U2-27
+Added Pin To Net: NetName=PB15 Pin=U2-28
+Added Pin To Net: NetName=PA8 Pin=U2-29
+Added Pin To Net: NetName=PA9 Pin=U2-30
+Added Pin To Net: NetName=PA10 Pin=U2-31
+Added Pin To Net: NetName=PA11 Pin=U2-32
+Added Pin To Net: NetName=PA12 Pin=U2-33
+Added Pin To Net: NetName=SWDIO Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=3v3 Pin=U2-36
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=PA15 Pin=U2-38
+Added Pin To Net: NetName=PB3 Pin=U2-39
+Added Pin To Net: NetName=PB4 Pin=U2-40
+Added Pin To Net: NetName=PB5 Pin=U2-41
+Added Pin To Net: NetName=PB6 Pin=U2-42
+Added Pin To Net: NetName=PB7 Pin=U2-43
+Added Pin To Net: NetName=BOOT0 Pin=U2-44
+Added Pin To Net: NetName=PB8 Pin=U2-45
+Added Pin To Net: NetName=PB9 Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3v3 Pin=U2-48
+Added Pin To Net: NetName=GND Pin=X1-1
+Added Pin To Net: NetName=PA15 Pin=X1-2
+Added Pin To Net: NetName=PB3 Pin=X1-3
+Added Pin To Net: NetName=PB4 Pin=X1-4
+Added Pin To Net: NetName=PB5 Pin=X1-5
+Added Pin To Net: NetName=PB6 Pin=X1-6
+Added Pin To Net: NetName=PB7 Pin=X1-7
+Added Pin To Net: NetName=PB8 Pin=X1-8
+Added Pin To Net: NetName=PB9 Pin=X1-9
+Added Pin To Net: NetName=PC13 Pin=X1-10
+Added Pin To Net: NetName=PC14 Pin=X1-11
+Added Pin To Net: NetName=PC15 Pin=X1-12
+Added Pin To Net: NetName=PA0 Pin=X1-13
+Added Pin To Net: NetName=PA1 Pin=X1-14
+Added Pin To Net: NetName=PA2 Pin=X1-15
+Added Pin To Net: NetName=PA3 Pin=X1-16
+Added Pin To Net: NetName=PA4 Pin=X1-17
+Added Pin To Net: NetName=PA5 Pin=X1-18
+Added Pin To Net: NetName=PA6 Pin=X1-19
+Added Pin To Net: NetName=PA7 Pin=X1-20
+Added Pin To Net: NetName=PB0 Pin=X1-21
+Added Pin To Net: NetName=PB1 Pin=X1-22
+Added Pin To Net: NetName=PB2 Pin=X1-23
+Added Pin To Net: NetName=PB10 Pin=X1-24
+Added Pin To Net: NetName=PB11 Pin=X1-25
+Added Pin To Net: NetName=PB12 Pin=X1-26
+Added Pin To Net: NetName=PB13 Pin=X1-27
+Added Pin To Net: NetName=PB14 Pin=X1-28
+Added Pin To Net: NetName=PB15 Pin=X1-29
+Added Pin To Net: NetName=PA8 Pin=X1-30
+Added Pin To Net: NetName=PA9 Pin=X1-31
+Added Pin To Net: NetName=PA10 Pin=X1-32
+Added Pin To Net: NetName=PA11 Pin=X1-33
+Added Pin To Net: NetName=PA12 Pin=X1-34
+Added Pin To Net: NetName=3v3 Pin=X1-35
+Added Pin To Net: NetName=VDD_5V Pin=X1-36
+Added Pin To Net: NetName=GND Pin=XS1-13
+Added Pin To Net: NetName=GND Pin=XS1-14
+Added Pin To Net: NetName=GND Pin=XS1-15
+Added Pin To Net: NetName=GND Pin=XS1-16
+Added Pin To Net: NetName=GND Pin=XS1-A1B12
+Added Pin To Net: NetName=NetD1_1 Pin=XS1-A4B9
+Added Pin To Net: NetName=SWDIO Pin=XS1-A6
+Added Pin To Net: NetName=SWCLK Pin=XS1-A7
+Added Pin To Net: NetName=GND Pin=XS1-B1A12
+Added Pin To Net: NetName=NetD1_1 Pin=XS1-B4A9
+Added Pin To Net: NetName=SWDIO Pin=XS1-B6
+Added Pin To Net: NetName=SWCLK Pin=XS1-B7
+Added Pin To Net: NetName=NetC11_1 Pin=XT1-1
+Added Pin To Net: NetName=NetC11_1 Pin=XT1-1
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=NetC10_1 Pin=XT1-3
+Added Pin To Net: NetName=GND Pin=XT1-4
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C1 106
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C2 106
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C3 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C4 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C5 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C6 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C7 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C8 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C9 105
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C10 22p
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C11 22p
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component D1 ss14
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component D2 led
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component D3 led
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component K1 3-6微动开关
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component K2 Boot0选择-默认GND
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component R1 10k
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component R2 10k
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component R3 3k
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component R4 3k
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component U1 ME6211 3V3
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component U2 STM32F103C8T6
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component X1 STM32F103C8T6引脚针
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component XS1 Type-C
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component XT1 8M
+Added Room: Name=STM32f103c8_minsystem V2_0

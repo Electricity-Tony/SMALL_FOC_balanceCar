@@ -1,0 +1,10 @@
+Added Component: Designator=R4(RES_0603)
+Added Pin To Net: NetName=NetD3_2 Pin=R4-1
+Added Pin To Net: NetName=PA6 Pin=R4-2
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C7 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C8 104
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C10 22p
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component C11 22p
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component D1 ss14
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component D2 led
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component R4 3k

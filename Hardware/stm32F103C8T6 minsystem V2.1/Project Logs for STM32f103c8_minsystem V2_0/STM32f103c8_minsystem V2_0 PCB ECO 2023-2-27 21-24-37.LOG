@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PA15 Pin=X1-31
+Removed Pin From Net: NetName=PA15 Pin=X1-31
+Removed Pin From Net: NetName=PB5 Pin=X1-34
+Removed Pin From Net: NetName=PB5 Pin=X1-34
+Added Pin To Net: NetName=PB5 Pin=X1-31
+Added Pin To Net: NetName=PB5 Pin=X1-31
+Added Pin To Net: NetName=PA15 Pin=X1-34
+Added Pin To Net: NetName=PA15 Pin=X1-34
+Added Room: Name=STM32f103c8_minsystem V2_0

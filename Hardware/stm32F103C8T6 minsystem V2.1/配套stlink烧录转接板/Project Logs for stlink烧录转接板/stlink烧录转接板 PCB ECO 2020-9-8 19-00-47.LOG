@@ -1,0 +1,10 @@
+Added Component: Designator=W1(手写体：王星灿)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W2(蕾姆360-340mil)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W3(科协徽章2（310-310）)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=stlink烧录转接板 Member=Component W1 手写体：王星灿
+Added Member To Class: ClassName=stlink烧录转接板 Member=Component W2 蕾姆
+Added Member To Class: ClassName=stlink烧录转接板 Member=Component W3 科协徽章
+Added Room: Name=stlink烧录转接板

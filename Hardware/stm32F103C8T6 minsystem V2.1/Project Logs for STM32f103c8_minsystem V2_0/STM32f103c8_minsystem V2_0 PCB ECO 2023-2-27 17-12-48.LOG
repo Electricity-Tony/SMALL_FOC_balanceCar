@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NRST Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=3v3 Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=T1-1
+Removed Pin From Net: NetName=3v3 Pin=T1-3
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=3v3 Pin=U1-2
+Removed Pin From Net: NetName=NetD3_2 Pin=XS1-1
+Removed Pin From Net: NetName=SWDIO Pin=XS1-2
+Removed Pin From Net: NetName=SWCLK Pin=XS1-3
+Removed Pin From Net: NetName=GND Pin=XS1-5
+Removed Pin From Net: NetName=GND Pin=XS1-6
+Removed Pin From Net: NetName=GND Pin=XS1-6
+Removed Pin From Net: NetName=GND Pin=XS1-7
+Removed Pin From Net: NetName=GND Pin=XS1-7
+Removed Pin From Net: NetName=GND Pin=XS1-8
+Removed Pin From Net: NetName=GND Pin=XS1-8
+Removed Pin From Net: NetName=GND Pin=XS1-9
+Removed Pin From Net: NetName=GND Pin=XS1-9
+Removed Member From Class: ClassName=STM32f103最小系统原理图 Member=T1
+Removed Member From Class: ClassName=STM32f103最小系统原理图 Member=W1
+Removed Member From Class: ClassName=STM32f103最小系统原理图 Member=W2
+Removed Member From Class: ClassName=STM32f103最小系统原理图 Member=W3
+Change Component Footprint: Designator=C1 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C3 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C4 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C5 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C6 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C8 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C9 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=C11 Old Footprint=Cap0603 New Footprint=CAP_0603
+Change Component Footprint: Designator=XS1 Old Footprint=MicroUSB立创平口 New Footprint=TypeC-304-16BCP
+Change Component Footprint: Designator=R1 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R2 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=R3 Old Footprint=Res0603 New Footprint=RES_0603
+Change Component Footprint: Designator=D3 Old Footprint=SMA/SMAF New Footprint=led0603
+Change Component Footprint: Designator=U1 Old Footprint=SOT223 New Footprint=SOT23-5
+Change Component Footprint: Designator=U2 Old Footprint=STM32F103C8T6芯片 New Footprint=LQFP48
+Change Component Footprint: Designator=XT1 Old Footprint=直插两脚晶振 New Footprint=SMD3225_4p
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=105
+Change Component Comment : Designator=C1 Old Comment=22u New Comment=106
+Change Component Comment : Designator=U1 Old Comment=AMS1117 New Comment=ME6211 3V3
+Change Component Comment : Designator=XS1 Old Comment=MicroUSB母口 New Comment=Type-C
+Change Component Comment : Designator=D1 Old Comment=POW-Led New Comment=led
+Change Component Comment : Designator=D3 Old Comment=ss14 New Comment=led
+Change Component Comment : Designator=U2 Old Comment=STM32F103C8T6芯片 New Comment=STM32F103C8T6
+Change Component Designator: OldDesignator=C5 NewDesignator=C11
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C6
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Added Component: Designator=C2(CAP_0603)
+Added Component: Designator=C7(CAP_0603)
+Added Component: Designator=C10(CAP_0603)
+Added Component: Designator=D1(SOD-323)
+Added Component: Designator=K2(Switch 1-2 0603)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NRST Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3v3 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=3v3 Pin=K2-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=3v3 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=XS1-13
+Added Pin To Net: NetName=GND Pin=XS1-14
+Added Pin To Net: NetName=GND Pin=XS1-15
+Added Pin To Net: NetName=GND Pin=XS1-16
+Added Pin To Net: NetName=GND Pin=XS1-A1B12
+Added Pin To Net: NetName=SWDIO Pin=XS1-A6
+Added Pin To Net: NetName=SWCLK Pin=XS1-A7
+Added Pin To Net: NetName=GND Pin=XS1-B1A12
+Added Pin To Net: NetName=SWDIO Pin=XS1-B6
+Added Pin To Net: NetName=SWCLK Pin=XS1-B7
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=GND Pin=XT1-4
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U2-6
+Added Pin To Net: NetName=NetC10_1 Pin=XT1-3
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=U2-5
+Added Pin To Net: NetName=NetC11_1 Pin=XT1-1
+Added Pin To Net: NetName=NetC11_1 Pin=XT1-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=XS1-A4B9
+Added Pin To Net: NetName=NetD1_1 Pin=XS1-B4A9
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetK2_2 Pin=K2-2
+Added Pin To Net: NetName=NetK2_2 Pin=R2-1
+Added Net: Name=NetK2_2
+Added Pin To Net: NetName=VDD_5V Pin=D1-2
+Added Pin To Net: NetName=VDD_5V Pin=U1-1
+Added Pin To Net: NetName=VDD_5V Pin=U1-3
+Added Pin To Net: NetName=VDD_5V Pin=X1-36
+Added Net: Name=VDD_5V
+Change Class Name : Old Net Name=STM32f103最小系统原理图 New Net Name=STM32f103c8_minsystem V2_0
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component K2 Boot0选择-默认GND
+Added Room: Name=STM32f103c8_minsystem V2_0

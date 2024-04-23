@@ -1,0 +1,7 @@
+Added Component: Designator=CON7(SH1.0 Vertical 2P)
+Added Pin To Net: NetName=PGND Pin=CON7-0
+Added Pin To Net: NetName=PGND Pin=CON7-0
+Added Pin To Net: NetName=8V4 Pin=CON7-1
+Added Pin To Net: NetName=PGND Pin=CON7-2
+Added Member To Class: ClassName=Sheet1 Member=Component CON7 SH1.0_2
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+Added Component: Designator=XS1(STlink-STM32F1牛角头)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SWCLK Pin=XS1-2
+Added Pin To Net: NetName=SWDIO Pin=XS1-4
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Pin To Net: NetName=GND Pin=XS1-6
+Added Pin To Net: NetName=+5 Pin=XS1-9
+Added Pin To Net: NetName=+5 Pin=XS1-10
+Added Member To Class: ClassName=stlink烧录转接板 Member=Component XS1 STlink-STM32F1牛角头

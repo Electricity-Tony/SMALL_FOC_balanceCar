@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=CON1 Old Footprint=SH1.0 Horizontal 2P New Footprint=SH1.0 Vertical 2P
+Change Component Footprint: Designator=CON2 Old Footprint=SH1.0 Horizontal 2P New Footprint=SH1.0 Vertical 2P
+Change Component Footprint: Designator=CON4 Old Footprint=SH1.0 Horizontal 2P New Footprint=SH1.0 Vertical 2P
+Change Component Footprint: Designator=CON5 Old Footprint=SH1.0 Horizontal 2P New Footprint=SH1.0 Vertical 2P
+Change Component Footprint: Designator=CON6 Old Footprint=SH1.0 Horizontal 2P New Footprint=SH1.0 Vertical 2P
+Added Room: Name=Sheet1

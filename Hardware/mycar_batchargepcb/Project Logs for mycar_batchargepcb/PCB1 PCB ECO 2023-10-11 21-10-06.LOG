@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=Sheet1 Member=D?
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Added Component: Designator=Q5(SOT23)
+Added Component: Designator=Q6(SOT23)
+Added Pin To Net: NetName=RTS Pin=Q5-2
+Added Pin To Net: NetName=EN Pin=Q5-3
+Added Pin To Net: NetName=DTR Pin=Q6-2
+Added Pin To Net: NetName=GPIO0 Pin=Q6-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R18-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R19-2
+Added Net: Name=NetQ6_1
+Added Member To Class: ClassName=Sheet1 Member=Component D7 RGB
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 NPN
+Added Member To Class: ClassName=Sheet1 Member=Component Q6 NPN

@@ -1,0 +1,6 @@
+Added Component: Designator=W1(designed by£¨430-70£©)
+Added Component: Designator=W2(Tony_2(200-70))
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component W1 Éè¼ÆÓÚ
+Added Member To Class: ClassName=STM32f103c8_minsystem V2_0 Member=Component W2 Tony
+Added Room: Name=STM32f103c8_minsystem V2_0

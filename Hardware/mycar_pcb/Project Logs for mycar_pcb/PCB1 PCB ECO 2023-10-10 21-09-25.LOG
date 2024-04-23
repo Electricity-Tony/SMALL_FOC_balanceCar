@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=XS4-A4B9
+Removed Pin From Net: NetName=NetD4_2 Pin=XS4-B4A9
+Added Component: Designator=D2(SOD-323)
+Added Pin To Net: NetName=USB_5V Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=XS4-A4B9
+Added Pin To Net: NetName=NetD2_2 Pin=XS4-B4A9
+Added Member To Class: ClassName=Sheet1 Member=Component D2 ss14
+Added Room: Name=Sheet1

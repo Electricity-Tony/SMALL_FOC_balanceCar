@@ -1,0 +1,4 @@
+Change Component Description : Designator=IC2 Old Description=三通道板桥驱动芯片 New Description= 三通道板桥驱动芯片
+Added Pin To Net: NetName=M1_W Pin=CON2-6
+Added Pin To Net: NetName=M1_W Pin=CON2-7
+Added Pin To Net: NetName=M1_W Pin=CON2-8

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=CAN1_RX Pin=U5-45
+Removed Pin From Net: NetName=CAN1_TX Pin=U5-46
+Change Component Description : Designator=IC3 Old Description=三通道板桥驱动芯片 New Description= 三通道板桥驱动芯片
+Added Pin To Net: NetName=CAN1_RX Pin=U5-32
+Added Pin To Net: NetName=CAN1_TX Pin=U5-33
+Added Pin To Net: NetName=PB8 Pin=U5-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=U5-46
+Added Net: Name=PB9
+Added Member To Class: ClassName=Sheet1 Member=Component R19 0603-100
+Added Member To Class: ClassName=Sheet1 Member=Component R21 0603-10k
+Added Member To Class: ClassName=Sheet1 Member=Component R26 0603-10k
+Added Member To Class: ClassName=Sheet1 Member=Component R27 10k
+Added Room: Name=Sheet1

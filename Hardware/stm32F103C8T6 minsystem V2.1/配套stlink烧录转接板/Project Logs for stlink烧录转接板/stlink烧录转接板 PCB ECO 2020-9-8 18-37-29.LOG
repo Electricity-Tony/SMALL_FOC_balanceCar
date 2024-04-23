@@ -1,0 +1,20 @@
+Added Component: Designator=X1(SWD调试接口)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XS2(USB_A母口180度贴片)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5 Pin=X1-5
+Added Pin To Net: NetName=+5 Pin=XS2-1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=XS2-5
+Added Pin To Net: NetName=GND Pin=XS2-6
+Added Pin To Net: NetName=GND Pin=XS2-7
+Added Net: Name=GND
+Added Pin To Net: NetName=SWCLK Pin=X1-1
+Added Pin To Net: NetName=SWCLK Pin=XS2-3
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=X1-2
+Added Pin To Net: NetName=SWDIO Pin=XS2-2
+Added Net: Name=SWDIO
+Added Class: Name=stlink烧录转接板
+Added Room: Name=stlink烧录转接板

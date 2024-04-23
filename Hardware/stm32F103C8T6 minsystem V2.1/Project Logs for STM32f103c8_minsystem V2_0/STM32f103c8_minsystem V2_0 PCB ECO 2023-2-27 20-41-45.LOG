@@ -1,0 +1,25 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C2 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C3 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C4 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C5 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C6 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C7 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C8 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C9 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C10 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C11 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=D1 Old Footprint=SOD-323 New Footprint=SOD-323
+Change Physical Footprint: Designator=D2 Old Footprint=led0603 New Footprint=led0603
+Change Physical Footprint: Designator=D3 Old Footprint=led0603 New Footprint=led0603
+Change Physical Footprint: Designator=K1 Old Footprint=3-6微动开关 New Footprint=3-6微动开关
+Change Physical Footprint: Designator=K2 Old Footprint=Switch 1-2 0603 New Footprint=Switch 1-2 0603
+Change Physical Footprint: Designator=R1 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=R2 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=R3 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=R4 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=U1 Old Footprint=SOT23-5 New Footprint=SOT23-5
+Change Physical Footprint: Designator=U2 Old Footprint=LQFP48 New Footprint=LQFP48
+Change Physical Footprint: Designator=X1 Old Footprint=STM32F103C8T6 V2_0引脚 New Footprint=STM32F103C8T6 V2_0引脚
+Change Physical Footprint: Designator=XS1 Old Footprint=TypeC-304-16BCP New Footprint=TypeC-304-16BCP
+Change Physical Footprint: Designator=XT1 Old Footprint=SMD3225_4p New Footprint=SMD3225_4p

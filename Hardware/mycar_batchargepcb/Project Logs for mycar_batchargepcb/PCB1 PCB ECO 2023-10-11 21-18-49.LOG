@@ -1,0 +1,5 @@
+Added Component: Designator=K5(4.5-4.5-5°´¼ü)
+Added Pin To Net: NetName=NetD2_2 Pin=K5-1
+Added Pin To Net: NetName=DGND Pin=K5-2
+Added Member To Class: ClassName=Sheet1 Member=Component K5 4.5-4.5-5°´¼ü
+Added Room: Name=Sheet1

@@ -1,0 +1,5 @@
+Added Component: Designator=D?(SOD-323)
+Added Pin To Net: NetName=USER_KEY Pin=D?-1
+Added Pin To Net: NetName=POWER_NET Pin=D?-2
+Added Member To Class: ClassName=Sheet1 Member=Component D? ss14
+Added Room: Name=Sheet1

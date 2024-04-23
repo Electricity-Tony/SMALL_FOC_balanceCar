@@ -1,0 +1,5 @@
+Added Component: Designator=R16(RES_0805-SHORT)
+Added Pin To Net: NetName=5V Pin=R16-1
+Added Pin To Net: NetName=VDD_5V Pin=R16-2
+Added Member To Class: ClassName=Sheet1 Member=Component R16 0R
+Added Room: Name=Sheet1

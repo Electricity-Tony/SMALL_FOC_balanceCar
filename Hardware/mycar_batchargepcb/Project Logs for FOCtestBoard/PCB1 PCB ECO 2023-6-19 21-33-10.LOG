@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USART-Debug-RX Pin=D7-2
+Added Pin To Net: NetName=USART-Debug-RX Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=U6-8
+Added Net: Name=NetD7_2
+Added Room: Name=Sheet1

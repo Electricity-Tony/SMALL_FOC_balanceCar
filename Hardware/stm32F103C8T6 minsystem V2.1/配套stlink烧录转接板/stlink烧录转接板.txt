@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\Tony Electricity\Desktop\stm32F103C8T6最小系统 V1.1\配套stlink烧录转接板\stlink烧录转接板.PcbDoc
+Date         : 2020/9/8
+Time         : 19:49:00
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 12
+    Connections routed, 12
+    Connections remaining, 0
+count : 4

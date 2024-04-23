@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\BaiduSyncdisk\Synchronization\Tony's diy\stm32F103C8T6最小系统 V2.1\STM32f103c8_minsystem V2_1.PcbDoc
+Date         : 2023/2/28
+Time         : 11:14:18
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 99
+    Connections routed, 99
+    Connections remaining, 0
+count : 4
